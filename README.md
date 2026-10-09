@@ -6,5 +6,6 @@ Technical Leader and Product Owner at Nokia in Budapest. I lead a five-person en
 - 🧪 Test automation and robustness testing for cloud-native telco platforms
 - ☁️ Python, Go, Kubernetes, OpenShift, Helm, CI/CD
 - 🕹️ After hours: [8bitEmu](https://github.com/fgalyasz/8bitEmu), a ZX Spectrum and Commodore 64 emulator written in Rust
+- 📷 Certified photographer: [DarkLab](https://github.com/fgalyasz/DarkLab), a photo library and editor in Python and PyQt6
 
 📫 [LinkedIn](https://www.linkedin.com/in/ferenc-galyasz/)
