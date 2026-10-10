@@ -7,5 +7,6 @@ Technical Leader and Product Owner at Nokia in Budapest. I lead a five-person en
 - ☁️ Python, Go, Kubernetes, OpenShift, Helm, CI/CD
 - 🕹️ After hours: [8bitEmu](https://github.com/fgalyasz/8bitEmu), a ZX Spectrum and Commodore 64 emulator written in Rust
 - 📷 Certified photographer: [DarkLab](https://github.com/fgalyasz/DarkLab), a photo library and editor in Python and PyQt6
+- 🚧 Both side projects are still in active development
 
 📫 [LinkedIn](https://www.linkedin.com/in/ferenc-galyasz/)
